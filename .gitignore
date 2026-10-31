@@ -1,0 +1,20 @@
+# Never commit anything from the game or third-party downloads
+PanzerDragoon/
+*.bin
+*.img
+*.iso
+*.cue
+*.ccd
+*.sub
+*.exe
+*.EXE
+*.dll
+*.DLL
+*.zip
+*.ogg
+*.wav
+*.avi
+*.AVI
+*.DAT
+REPLAY*
+__pycache__/
